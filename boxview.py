@@ -22,7 +22,7 @@ def _set_token_from_env():
             variables to be set like this:
 
             >>> import os
-            >>> os.environ['BOX_VIEW_TOKEN'] = YOUR_BOX_VIEW_TOKEN
+            >>> os.environ['BOX_VIEW_TOKEN'] = vrou3v2m41n3gc8in0fu3u8leegryic2
             """
         )
     return box_view_token
